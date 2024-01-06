@@ -1,8 +1,15 @@
-## Hi, I am Ahmed 
+# 💫 About Me:
+* 👨🏻‍💻 I am very passionate _full-stack developer_ who wants to rule it all :)<br>* 👨🏻‍🎓 I graduated with bachelor degree in computer science & information technology at [6 October University](https://o6u.edu.eg/default.aspx?id=70) which is an Egyptian university <br>* 💪🏻 I like to have a very healthy life style so I hit the gym which is one of my favorite hobbies <br>* 🌍 I'm based in Giza, Egypt<br>* ✉️ You can contact me at [ahmedagamyforwork@gmail.com](mailto:ahmedagamyforwork@gmail.com)<br>* ⚡ I am currently trying to honed my skills in full stack programming and work on improving my skills by 1% each day and learn something new
 
-* 👨🏻‍💻 I am very passionet _full-stack developer_ who wants to rule it all :)
-* 👨🏻‍🎓 I gradudated with bachelor degree in computer science & information technology at [6 October University](https://o6u.edu.eg/default.aspx?id=70) which is an Egyptian university 
-* 💪🏻 I like to have a very healthy life style so I hit the gym which is one of my faviourite hobbies 
-* 🌍 I'm based in Giza, Egypt
-* ✉️ You can contact me at [ahmedagamyforwork@gmail.com](mailto:ahmedagamyforwork@gmail.com)
-* ⚡ I am currently trying to hond my skills in full stack programming and work on improving my skills by 1% each day and learn something new  
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_haxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed11hazem) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=silicon-nyx&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=silicon-nyx&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silicon-nyx&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
